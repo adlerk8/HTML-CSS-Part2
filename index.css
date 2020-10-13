@@ -1,0 +1,14 @@
+.top {
+    background-color: #333333;
+    display: flex;
+}
+
+#logo {
+    width: 32px;
+    border-radius: 3px white;
+}
+
+#leftMenu {
+    justify-content: left;
+    
+}
